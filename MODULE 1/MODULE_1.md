@@ -85,9 +85,6 @@ Python’s role extends far beyond artificial intelligence. It is a versatile la
 
 The widespread adoption of Python ensures that learners who master it gain access to one of the most powerful tools in modern programming.
 
-
-![[Materials/image.png|image.png]]
-
 ---
 ### Advancing Through Code
 
